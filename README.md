@@ -1,4 +1,4 @@
 # first
 My first repository
 <br>
-Author - Kanush Sachdeva
+Author - Kanush Sachdeva New
